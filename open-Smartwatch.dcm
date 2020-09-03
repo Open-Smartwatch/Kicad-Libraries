@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BMA400
+D Accelerometer X, Y, Z Axis ±2g, 4g, 8g, 16g  12-LGA (2x2)
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMA400-DS000.pdf
+$ENDCMP
+#
+$CMP BMP280
+D Absolute Barometric Pressure Sensor, LGA-8
+K I2C, SPI, pressure, temperature, sensor
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf
+$ENDCMP
+#
+$CMP CH340E
+D USB serial converter, UART, MSOP-10
+K USB UART Serial Converter Interface
+F https://www.mpja.com/download/35227cpdata.pdf
+$ENDCMP
+#
+$CMP MCP1812AT
+D Linear Voltage Regulator IC  1 Output  300mA SOT-23-5
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP73831T-2ACI_OT
+D IC CONTROLLR LI-ION 4.2V SOT23-5
+K MCP73831T-2ACI/OTCT-ND
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP TLV70033DDCR
+D Linear Voltage Regulator IC  1 Output  200mA SOT-23-5
+F https://www.ti.com/lit/ds/symlink/tlv700.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1599025854635
+$ENDCMP
+#
+$CMP TPS2115A
+D OR Controller Source Selector Switch N-Channel 2:1 8-TSSOP
+F https://www.ti.com/lit/ds/symlink/tps2114a.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1599026024238
+$ENDCMP
+#
+$CMP TPS2115A_default
+D OR Controller Source Selector Switch N-Channel 2:1 8-TSSOP
+F https://www.ti.com/lit/ds/symlink/tps2114a.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1599026024238
+$ENDCMP
+#
+#End Doc Library
