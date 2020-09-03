@@ -28,6 +28,11 @@ K MCP73831T-2ACI/OTCT-ND
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
 $ENDCMP
 #
+$CMP Quectel_L96
+D L96 is a single receiver module integrated with GPS, GLONASS, Galileo(RLM supported) and BeiDou systems.
+F https://www.quectel.com/UploadImage/Downlad/Quectel_L96_Hardware_Design_V1.2.pdf
+$ENDCMP
+#
 $CMP TLV70033DDCR
 D Linear Voltage Regulator IC  1 Output  200mA SOT-23-5
 F https://www.ti.com/lit/ds/symlink/tlv700.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1599025854635
