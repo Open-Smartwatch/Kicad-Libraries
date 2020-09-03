@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BMA400
+D Accelerometer X, Y, Z Axis ±2g, 4g, 8g, 16g  12-LGA (2x2)
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMA400-DS000.pdf
+$ENDCMP
+#
 $CMP BMP280
 D Absolute Barometric Pressure Sensor, LGA-8
 K I2C, SPI, pressure, temperature, sensor
