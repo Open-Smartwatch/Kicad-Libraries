@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BMP280
+D Absolute Barometric Pressure Sensor, LGA-8
+K I2C, SPI, pressure, temperature, sensor
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf
+$ENDCMP
+#
 $CMP CH340E
 D USB serial converter, UART, MSOP-10
 K USB UART Serial Converter Interface
