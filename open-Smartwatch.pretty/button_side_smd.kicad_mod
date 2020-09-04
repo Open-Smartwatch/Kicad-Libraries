@@ -1,5 +1,5 @@
-(module button_side_smd (layer F.Cu) (tedit 5B7291A3)
-  (fp_text reference Mode1 (at 0 0 -90) (layer F.SilkS)
+(module button_side_smd (layer F.Cu) (tedit 5F524960)
+  (fp_text reference Ref** (at 0 0 -90) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.15)))
   )
   (fp_text value SW_MODE (at 0 -5.08) (layer F.Fab)

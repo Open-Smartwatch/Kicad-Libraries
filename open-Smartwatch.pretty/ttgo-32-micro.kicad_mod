@@ -1,5 +1,5 @@
-(module ttgo-32-micro (layer F.Cu) (tedit 5CCCD032)
-  (fp_text reference U1 (at 0 0.5) (layer F.SilkS)
+(module ttgo-32-micro (layer F.Cu) (tedit 5F5249BC)
+  (fp_text reference Ref** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value ttgo-32-micro (at 0 -4.064) (layer F.Fab)
