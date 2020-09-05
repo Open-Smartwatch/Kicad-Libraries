@@ -17,12 +17,6 @@ K USB UART Serial Converter Interface
 F https://www.mpja.com/download/35227cpdata.pdf
 $ENDCMP
 #
-$CMP ESP32-PICO-D4
-D RF Module, ESP32 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, external antenna, QFN-48
-K RF Radio BT ESP ESP32 Espressif external antenna
-F https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf
-$ENDCMP
-#
 $CMP GC9A01_IPS_display
 D 1.28 Inch Soldering 12PIN 4 Wires SPI Interface Drive GC9A01 IPS 240x240 Color Circle Round Lcd Display Module
 K GC9A01 IPS display
