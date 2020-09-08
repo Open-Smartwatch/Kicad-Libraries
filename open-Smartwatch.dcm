@@ -17,6 +17,12 @@ K USB UART Serial Converter Interface
 F https://www.mpja.com/download/35227cpdata.pdf
 $ENDCMP
 #
+$CMP Conn_01x04
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP GC9A01_IPS_display
 D 1.28 Inch Soldering 12PIN 4 Wires SPI Interface Drive GC9A01 IPS 240x240 Color Circle Round Lcd Display Module
 K GC9A01 IPS display
