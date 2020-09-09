@@ -22,12 +22,6 @@ D 1.28 Inch Soldering 12PIN 4 Wires SPI Interface Drive GC9A01 IPS 240x240 Color
 K GC9A01 IPS display
 $ENDCMP
 #
-$CMP GC9A01_IPS_display_I2C
-D 1.28 Inch Soldering 12PIN 4 Wires SPI Interface Drive GC9A01 IPS 240x240 Color Circle Round Lcd Display Module
-K GC9A01 IPS display
-F https://www.alibaba.com/product-detail/Taidacent-1-28-Inch-Soldering-12PIN_62312376504.html
-$ENDCMP
-#
 $CMP GC9A01_IPS_display_SPI
 D 1.28 Inch Soldering 12PIN 4 Wires SPI Interface Drive GC9A01 IPS 240x240 Color Circle Round Lcd Display Module
 K GC9A01 IPS display
