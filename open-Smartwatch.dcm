@@ -22,6 +22,12 @@ D 1.28 Inch Soldering 12PIN 4 Wires SPI Interface Drive GC9A01 IPS 240x240 Color
 K GC9A01 IPS display
 $ENDCMP
 #
+$CMP GC9A01_IPS_display_I2C
+D 1.28 Inch Soldering 12PIN 4 Wires SPI Interface Drive GC9A01 IPS 240x240 Color Circle Round Lcd Display Module
+K GC9A01 IPS display
+F https://www.alibaba.com/product-detail/Taidacent-1-28-Inch-Soldering-12PIN_62312376504.html
+$ENDCMP
+#
 $CMP MCP1812AT
 D Linear Voltage Regulator IC  1 Output  300mA SOT-23-5
 F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
